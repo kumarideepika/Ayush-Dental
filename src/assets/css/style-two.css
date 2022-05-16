@@ -1,0 +1,15 @@
+/* Google Font for Home Page Two */
+@import url('https://fonts.googleapis.com/css?family=Lora:400,400i|Poppins:400,500,600,700,800,900&display=swap');
+
+
+/* change here, full html color,size,background will same as here */
+:root {
+    --main-color-two: #fc5185;
+    --second-color-two: #004caa;
+    --heading-color-two: #222222;
+    --body-color-two: #818181;
+    --section-bg-two: #004caa;
+    --box-shadow-two: 8.135px 18.271px 40px 0px rgba(0, 0, 0, 0.08);
+    --heading-family-two: 'Poppins', sans-serif;
+    --body-family-two: 'Lora', serif;
+}
